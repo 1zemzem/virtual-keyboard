@@ -27,7 +27,7 @@
     width: 100%;
     padding: 10px;
     background: #607D8B;
-    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     user-select: none;
     transition: bottom 0.4s;
 }
