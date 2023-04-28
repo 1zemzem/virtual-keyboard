@@ -1,7 +1,11 @@
 {
   "name": "virtual-keyboard",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "��#\u0000 \u0000v\u0000i\u0000r\u0000t\u0000u\u0000a\u0000l\u0000-\u0000k\u0000e\u0000y\u0000b\u0000o\u0000a\u0000r\u0000d\u0000\r\u0000 \u0000",
+=======
+  "description": "",
+>>>>>>> 0b6144c29892fef4f54b3c8bf5b5b67979337a4b
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +21,11 @@
   },
   "homepage": "https://github.com/1zemzem/virtual-keyboard#readme",
   "devDependencies": {
+<<<<<<< HEAD
     "eslint": "^8.39.0",
     "eslint-plugin-react": "^7.32.2"
+=======
+    "eslint": "^8.39.0"
+>>>>>>> 0b6144c29892fef4f54b3c8bf5b5b67979337a4b
   }
 }
